@@ -5,7 +5,7 @@
 - [Project Overview](#project-Overview)
 - [Project Objective](#project-Objective)
 - [Data Source](#Data-Source)
-- [Project Rationales](#Project-Rationale)
+- [Project Rationale](#Project-Rationale)
 - [Methodology](#Methodology)
 
 
